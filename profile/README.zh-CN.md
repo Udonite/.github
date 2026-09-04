@@ -8,8 +8,6 @@
 
 Udonite 是免费的，网络功能也包含在内。
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/8B4q7w6WCq)
-
 ## 安装
 
 在 VRChat Creator Companion 中添加这个列表：

@@ -8,8 +8,6 @@ Write a `MonoBehaviour` and Udonite compiles it to Udon. No dialect to learn and
 
 Udonite is free, networking included.
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/8B4q7w6WCq)
-
 ## Install
 
 Add this listing to the VRChat Creator Companion:

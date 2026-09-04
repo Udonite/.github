@@ -8,8 +8,6 @@
 
 Udonite は無料です。ネットワーク機能も含みます。
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/8B4q7w6WCq)
-
 ## インストール
 
 VRChat Creator Companion に次のリスティングを追加してください。
