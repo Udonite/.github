@@ -29,6 +29,6 @@ https://udonite.github.io/vpm/index.json
 | [Udonite](https://github.com/Udonite/Udonite) | コンパイラ本体。ドキュメント、Issue、リリース |
 | [vpm](https://github.com/Udonite/vpm) | Creator Companion 用リスティング |
 
-コンパイラは無料で、これからもずっと無料です。一人で作って一人で維持しています。支援はその作業と、その上に作られるパッケージを支えます（まだ一つも公開されていません）。[支援する](https://buy.polar.sh/polar_cl_fiMBXRqzbvm0c8qt6xqKKBGbaB0FOQmPMddgn06PRsC)・[検討中のパッケージ](https://github.com/Udonite/Udonite/blob/main/docs/packages.md)（英語）
+コンパイラは無料で、これからもずっと無料です。一人で作って一人で維持しています。支援はその作業と、その周辺で作られているサービスを支えます。支援しても見返りはありません。サポーター特典も、制限された機能もありません。[支援する](https://buy.polar.sh/polar_cl_fiMBXRqzbvm0c8qt6xqKKBGbaB0FOQmPMddgn06PRsC)
 
 VRChat Inc. とは関係のない非公式ツールです。

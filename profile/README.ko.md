@@ -29,6 +29,6 @@ https://udonite.github.io/vpm/index.json
 | [Udonite](https://github.com/Udonite/Udonite) | 컴파일러 본체: 문서, 이슈, 릴리스 |
 | [vpm](https://github.com/Udonite/vpm) | Creator Companion 리스팅 |
 
-컴파일러는 무료이며 앞으로도 계속 무료입니다. 한 사람이 만들고 유지보수합니다. 후원은 그 작업과, 그 위에 만들어지는 패키지를 지원합니다(아직 공개된 것은 없습니다). [후원하기](https://buy.polar.sh/polar_cl_fiMBXRqzbvm0c8qt6xqKKBGbaB0FOQmPMddgn06PRsC) · [검토 중인 패키지 보기](https://github.com/Udonite/Udonite/blob/main/docs/packages.md)(영어)
+컴파일러는 무료이며 앞으로도 계속 무료입니다. 한 사람이 만들고 유지보수합니다. 후원은 그 작업과 그 주변에서 만들어지는 서비스를 지원합니다. 후원해도 돌아오는 것은 없습니다. 후원자 등급도, 제한된 기능도 없습니다. [후원하기](https://buy.polar.sh/polar_cl_fiMBXRqzbvm0c8qt6xqKKBGbaB0FOQmPMddgn06PRsC)
 
 VRChat Inc.와는 관계가 없는 서드파티 도구입니다.

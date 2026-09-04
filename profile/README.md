@@ -29,6 +29,6 @@ Documentation: **[udonite.dajno.com](https://udonite.dajno.com)**
 | [Udonite](https://github.com/Udonite/Udonite) | The compiler: docs, issues and releases |
 | [vpm](https://github.com/Udonite/vpm) | The Creator Companion listing |
 
-The compiler is free and always will be. It is built and maintained by one person; supporting funds that work and the packages built on it, none of which have shipped yet. [Become a supporter](https://buy.polar.sh/polar_cl_fiMBXRqzbvm0c8qt6xqKKBGbaB0FOQmPMddgn06PRsC) · [what is being considered](https://github.com/Udonite/Udonite/blob/main/docs/packages.md)
+The compiler is free and always will be. It is built and maintained by one person; supporting funds that work and the services being built around it. You get nothing for it - there is no supporter tier and nothing here is gated. [Become a supporter](https://buy.polar.sh/polar_cl_fiMBXRqzbvm0c8qt6xqKKBGbaB0FOQmPMddgn06PRsC)
 
 Not affiliated with VRChat Inc.
