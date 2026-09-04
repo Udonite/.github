@@ -27,6 +27,6 @@ https://udonite.github.io/vpm/index.json
 | [Udonite](https://github.com/Udonite/Udonite) | 编译器本体：文档、Issue 和发布 |
 | [vpm](https://github.com/Udonite/vpm) | Creator Companion 列表 |
 
-编译器是免费的，而且永远都会是免费的。它由一个人开发和维护。你的支持资助这项工作，以及围绕它构建的服务。支持不会带来任何回报，没有支持者等级，也没有任何内容是受限的。[成为支持者](https://buy.polar.sh/polar_cl_fiMBXRqzbvm0c8qt6xqKKBGbaB0FOQmPMddgn06PRsC)
+编译器是免费的，而且永远都会是免费的，由一个人开发和维护。你的支持资助这项工作，也会带来世界里真正用得上的东西：从世界向 Discord 或 Pushover 发送消息，并保存计数器、成绩表和共享开关 —— 即使所有人都离开也不会丢失。可以免费试用，成为支持者会提高各项上限。[成为支持者](https://buy.polar.sh/polar_cl_fiMBXRqzbvm0c8qt6xqKKBGbaB0FOQmPMddgn06PRsC)
 
 与 VRChat Inc. 无关的第三方工具。

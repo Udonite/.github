@@ -27,6 +27,6 @@ Documentation: **[docs.udonite.com](https://docs.udonite.com)**
 | [Udonite](https://github.com/Udonite/Udonite) | The compiler: docs, issues and releases |
 | [vpm](https://github.com/Udonite/vpm) | The Creator Companion listing |
 
-The compiler is free and always will be. It is built and maintained by one person; supporting funds that work and the services being built around it. You get nothing for it - there is no supporter tier and nothing here is gated. [Become a supporter](https://buy.polar.sh/polar_cl_fiMBXRqzbvm0c8qt6xqKKBGbaB0FOQmPMddgn06PRsC)
+The compiler is free and always will be, built and maintained by one person. Supporting funds that work and gets you something a world can use: hosted services that send a message from a world into Discord or Pushover, and keep counters, score tables and shared switches that survive everyone leaving. Free to try, and supporting raises every limit. [Become a supporter](https://buy.polar.sh/polar_cl_fiMBXRqzbvm0c8qt6xqKKBGbaB0FOQmPMddgn06PRsC)
 
 Not affiliated with VRChat Inc.
