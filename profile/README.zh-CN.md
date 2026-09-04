@@ -18,7 +18,7 @@ https://udonite.github.io/vpm/index.json
 
 然后从包列表中添加 **Udonite**。或者在[列表页面](https://udonite.github.io/vpm/)上点击 **Add to VCC**。
 
-文档: **[udonite.dajno.com](https://udonite.dajno.com/?lang=zh)**
+文档: **[docs.udonite.com](https://docs.udonite.com/?lang=zh)**
 
 ## 仓库
 

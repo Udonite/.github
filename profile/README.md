@@ -18,7 +18,7 @@ https://udonite.github.io/vpm/index.json
 
 Then add **Udonite** from the package list. Or press **Add to VCC** on the [listing page](https://udonite.github.io/vpm/).
 
-Documentation: **[udonite.dajno.com](https://udonite.dajno.com)**
+Documentation: **[docs.udonite.com](https://docs.udonite.com)**
 
 ## Repositories
 
