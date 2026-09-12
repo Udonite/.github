@@ -18,7 +18,7 @@ https://udonite.github.io/vpm/index.json
 
 その後、パッケージ一覧から **Udonite** を追加します。または[リスティングページ](https://udonite.github.io/vpm/)の **Add to VCC** を押してください。
 
-ドキュメント: **[docs.udonite.com](https://docs.udonite.com/?lang=ja)**
+ドキュメント: **[udonite.com/docs](https://udonite.com/docs)**
 
 ## リポジトリ
 

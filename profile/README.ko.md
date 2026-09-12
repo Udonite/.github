@@ -18,7 +18,7 @@ https://udonite.github.io/vpm/index.json
 
 그런 다음 패키지 목록에서 **Udonite**를 추가합니다. 또는 [리스팅 페이지](https://udonite.github.io/vpm/)에서 **Add to VCC**를 누르세요.
 
-문서: **[docs.udonite.com](https://docs.udonite.com/?lang=ko)**
+문서: **[udonite.com/docs](https://udonite.com/docs)**
 
 ## 저장소
 
